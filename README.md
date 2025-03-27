@@ -1,15 +1,12 @@
-# LocDecor
+# React + Vite
 
-O **LocDecor** é um sistema de locação de decoração para festas. Ele permite que os clientes aluguem materiais ou kits de decoração e realizem a montagem em casa, no salão de festas ou em outros ambientes.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Funcionalidades
+Currently, two official plugins are available:
 
-- Cadastro e gerenciamento de clientes
-- Controle de inventário de materiais de decoração
-- Geração de pedidos e contratos
-- Controle financeiro (transações)
-- Emissão de relatórios (gráficos, planilhas e PDFs)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Como Rodar o Projeto Localmente
+## Expanding the ESLint configuration
 
-1. Clone o repositório:
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
