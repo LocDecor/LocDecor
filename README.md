@@ -1,16 +1,15 @@
-## Hi there 👋
+# LocDecor
 
-<!--
-**LocDecor/LocDecor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O **LocDecor** é um sistema de locação de decoração para festas. Ele permite que os clientes aluguem materiais ou kits de decoração e realizem a montagem em casa, no salão de festas ou em outros ambientes.
 
-Here are some ideas to get you started:
+## Funcionalidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cadastro e gerenciamento de clientes
+- Controle de inventário de materiais de decoração
+- Geração de pedidos e contratos
+- Controle financeiro (transações)
+- Emissão de relatórios (gráficos, planilhas e PDFs)
+
+## Como Rodar o Projeto Localmente
+
+1. Clone o repositório:
